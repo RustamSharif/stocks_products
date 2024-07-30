@@ -1,4 +1,7 @@
-# примеры API-запросов
+
+GET http://localhost:8000/api/v1/stocks/?products=2
+Content-Type: application/json
+
 
 @baseUrl = http://localhost:8000/api/v1
 
